@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4bfb242.css",
+    "main.js": "/static/js/main.60e1e7f9.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/TripleSOverview.mp4": "/static/media/TripleSOverview.3e5f11a3b42fc6c18109.mp4",
+    "static/media/notesapp_rec.mp4": "/static/media/notesapp_rec.8361f861f95a3bee099d.mp4",
+    "static/media/PythonCertDevopsExperts.pdf": "/static/media/PythonCertDevopsExperts.a91afbacf560789db51c.pdf",
+    "static/media/notes_logo.png": "/static/media/notes_logo.36340fcea3b6cb3c0d59.png",
+    "static/media/me3.jpeg": "/static/media/me3.4c8d0e8312a46dd39e08.jpeg",
+    "static/media/vehicles_market_logo.png": "/static/media/vehicles_market_logo.f3439a1e673cf0b026f9.png",
+    "static/media/LinkedInProfile.jpeg": "/static/media/LinkedInProfile.41af5ffdf39c1624bd9d.jpeg",
+    "static/media/CV_OfirNahshoni.pdf": "/static/media/CV_OfirNahshoni.55cb7d8ae7b26432f960.pdf",
+    "static/media/PythonCertBrainnest.pdf": "/static/media/PythonCertBrainnest.3fcc8e14b3c56f1464ac.pdf",
+    "static/media/triples_logo.png": "/static/media/triples_logo.296f37a18b2d617a21a4.png",
+    "index.html": "/index.html",
+    "main.e4bfb242.css.map": "/static/css/main.e4bfb242.css.map",
+    "main.60e1e7f9.js.map": "/static/js/main.60e1e7f9.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bfb242.css",
+    "static/js/main.60e1e7f9.js"
+  ]
+}
